@@ -176,3 +176,17 @@ hr {
         height: 200px;
     }
 }
+
+@media (max-width: 500px) {
+    .top-cloud {
+    top: 30px;
+    left: 5%;
+}
+
+.bottom-cloud {
+    bottom: 250px;
+    right: 5%;
+}
+}
+
+
