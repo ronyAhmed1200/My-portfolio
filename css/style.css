@@ -164,6 +164,10 @@ hr {
 }
 
 @media (max-width: 1270px) {
+    .mountain-img{
+    max-width: 100%;
+    height: auto;
+}
     .skills {
         margin: auto;
     }
