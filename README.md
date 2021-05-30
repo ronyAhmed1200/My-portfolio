@@ -1,4 +1,7 @@
 # My-portfolio
+
+![imgae-of-our-drumkit](https://imgur.com/rwkigbl.png)
+
 [demo](https://ronyahmed.netlify.app/)
 
 ## This is the portfolio webpage of my projects.
